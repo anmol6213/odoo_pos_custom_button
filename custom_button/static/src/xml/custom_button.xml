@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates id="template" xml:space="preserve">
+    <!-- Extend POS Control Buttons -->
+    <t t-inherit="point_of_sale.ControlButtons" t-inherit-mode="extension">
+        <xpath expr="//div[contains(@class, 'buttons')]" position="inside">
+            <button class="button custom-pos-button" t-on-click="() => this.onClickPopupSingleField()">
+                <i class="fa fa-calculator"></i> Enter Amount
+            </button>
+        </xpath>
+    </t>
+</templates>

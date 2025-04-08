@@ -49,7 +49,7 @@ custom_button/
 ## Credits 🙌
 - **Developed by**: Surendra Dairy POS Team
 - **Maintainer**: [Spopli Web Development Services]
-- **Contact**: [chintu2411@gmail.com]
+- **Contact**: [anmolpatil832003@gmail.com]
 
 ## License 📄
 This module is licensed under the **LGPL-3** license.

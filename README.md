@@ -1,6 +1,6 @@
 # Surendra-Dairy
 # Custom Action Button in POS 🚀
-
+ 
 ## Overview ✨
 This module introduces a custom action button to the Point of Sale (POS) interface in Odoo, allowing users to input an amount dynamically during the checkout process. The button triggers a popup that allows the user to enter a custom amount for a product, which is then used to update the order details in real-time. Ideal for scenarios like custom pricing, manual entry of amounts, and quick adjustments during sales.
 
